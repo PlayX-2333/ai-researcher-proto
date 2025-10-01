@@ -1,6 +1,8 @@
 # AI Researcher Backend
 
-A LangGraph-powered backend service that provides an AI chatbot agent using OpenAI's GPT-4o-mini model.
+
+
+A LangGraph-powered backend service that provides an AI chatbot agent using OpenAI's GPT-4o-mini model. (This branch uses single node architecture)
 
 ## Prerequisites
 
